@@ -35,6 +35,7 @@ params:
     hideSummary: false
     showtoc: true
     tocopen: true
+    comments: true
 
     homeInfoParams:
       Title: Hi there!
