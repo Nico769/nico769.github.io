@@ -14,9 +14,10 @@ minify:
   minifyOutput: true
 
 params:
-    title: "Nicola Landolfi"
-    description: "My personal blog about Software Engineering"
-    keywords: [Blog, Portfolio, Software, Engineering]
+    env: production
+    author: "Nicola Landolfi"
+    description: "Software Engineering blog of Nicola Landolfi"
+    keywords: [Software, Engineering, Development, Personal, Blog]
     DateFormat: "January 2, 2006"
     defaultTheme: auto
     disableThemeToggle: false
@@ -40,8 +41,8 @@ params:
       disableHLJS: true
 
     homeInfoParams:
-      Title: Hi there!
-      Content: I am a Backend Engineer.
+      Title: Hello! &#128075;
+      Content: I'm Nicola Landolfi, a Software Engineer who loves to turn ideas into maintainable and scalable software by crafting readable and testable code. I mostly work with Java and Spring. 
     socialIcons:
     - name: github
       url: "https://github.com/Nico769"
