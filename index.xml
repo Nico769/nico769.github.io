@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nicola Landolfi&#39;s Blog</title>
+    <link>https://nico769.github.io/</link>
+    <description>Recent content on Nicola Landolfi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2023 17:04:40 +0200</lastBuildDate><atom:link href="https://nico769.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Docker HEALTHCHECK Command</title>
+      <link>https://nico769.github.io/posts/getting-started-docker-healthcheck/</link>
+      <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
+      
+      <guid>https://nico769.github.io/posts/getting-started-docker-healthcheck/</guid>
+      <description>In this post, we will discuss what Docker HEALTHCHECK is, when it should be used, provide a code example to demonstrate how the HEALTHCHECK command works and how to debug it.
+The code is available here.
+What is Docker HEALTHCHECK Docker HEALTHCHECK is a command used to test the status of a container in a systematic way. The command runs periodically, and if it fails, the container is marked as unhealthy.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

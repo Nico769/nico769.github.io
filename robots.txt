@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nico769.github.io/sitemap.xml
