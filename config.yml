@@ -36,6 +36,8 @@ params:
     showtoc: true
     tocopen: true
     comments: true
+    assets:
+      disableHLJS: true
 
     homeInfoParams:
       Title: Hi there!
@@ -81,7 +83,7 @@ markup:
   highlight:
     guessSyntax: true
     lineNos: true
-    style: monokai
+    style: dracula
 
 outputs:
   home:
