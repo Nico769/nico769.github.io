@@ -1,0 +1,98 @@
+baseURL: "https://nico769.github.io"
+languageCode: "en-us"
+title: "Nicola Landolfi's Blog"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+    env: production
+    author: "Nicola Landolfi"
+    description: "Software Engineering blog of Nicola Landolfi"
+    keywords: [Software, Engineering, Development, Personal, Blog]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto
+    disableThemeToggle: false
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowWordCount: true
+    ShowRssButtonInSectionTermList: true
+    UseHugoToc: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    tocopen: true
+    comments: true
+    assets:
+      disableHLJS: true
+
+    homeInfoParams:
+      Title: Hello! &#128075;
+      Content: I'm Nicola Landolfi, a Software Engineer who loves to turn ideas into maintainable and scalable software by crafting readable and testable code. I mostly work with Java and Spring. 
+    socialIcons:
+    - name: github
+      url: "https://github.com/Nico769"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ncllndeng/"
+
+    cover:
+      hidden: true # hide everywhere but not in structured data
+      hiddenInList: true # hide on list pages and home
+      hiddenInSingle: true # hide on single page
+
+    fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      threshold: 0.4
+      location: 0
+      distance: 1000
+      minMatchCharLength: 3
+      keys:
+        - title
+        - summary
+        - content
+        - tags
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    guessSyntax: true
+    lineNos: true
+    style: dracula
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
