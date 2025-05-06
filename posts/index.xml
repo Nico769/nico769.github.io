@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nicola Landolfi&#39;s Blog</title>
-    <link>https://nicolandolfi.dev/posts/</link>
+    <link>https://nico769.github.io/posts/</link>
     <description>Recent content in Posts on Nicola Landolfi&#39;s Blog</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 May 2023 17:04:40 +0200</lastBuildDate>
-    <atom:link href="https://nicolandolfi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nico769.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Docker HEALTHCHECK Command</title>
-      <link>https://nicolandolfi.dev/posts/getting-started-docker-healthcheck/</link>
+      <link>https://nico769.github.io/posts/getting-started-docker-healthcheck/</link>
       <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
-      <guid>https://nicolandolfi.dev/posts/getting-started-docker-healthcheck/</guid>
+      <guid>https://nico769.github.io/posts/getting-started-docker-healthcheck/</guid>
       <description>&lt;p&gt;In this post, we will discuss what Docker &lt;code&gt;HEALTHCHECK&lt;/code&gt; is, when it should be used, provide a code example to demonstrate how the &lt;code&gt;HEALTHCHECK&lt;/code&gt; command works and how to debug it.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Nico769/blog-code-examples/tree/master/getting-started-docker-healthcheck&#34;&gt;The code is available here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-docker-healthcheck&#34;&gt;What is Docker HEALTHCHECK&lt;/h2&gt;
