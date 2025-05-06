@@ -4,44 +4,37 @@
     <title>Tags on Nicola Landolfi&#39;s Blog</title>
     <link>https://nicolandolfi.dev/tags/</link>
     <description>Recent content in Tags on Nicola Landolfi&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 17:04:40 +0200</lastBuildDate><atom:link href="https://nicolandolfi.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 17:04:40 +0200</lastBuildDate>
+    <atom:link href="https://nicolandolfi.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
       <link>https://nicolandolfi.dev/tags/docker/</link>
       <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
-      
       <guid>https://nicolandolfi.dev/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dockerfile</title>
       <link>https://nicolandolfi.dev/tags/dockerfile/</link>
       <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
-      
       <guid>https://nicolandolfi.dev/tags/dockerfile/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>healthcheck</title>
+      <title>Healthcheck</title>
       <link>https://nicolandolfi.dev/tags/healthcheck/</link>
       <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
-      
       <guid>https://nicolandolfi.dev/tags/healthcheck/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Monitoring Containers</title>
       <link>https://nicolandolfi.dev/tags/monitoring-containers/</link>
       <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
-      
       <guid>https://nicolandolfi.dev/tags/monitoring-containers/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

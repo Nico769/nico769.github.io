@@ -4,19 +4,19 @@
     <title>Posts on Nicola Landolfi&#39;s Blog</title>
     <link>https://nicolandolfi.dev/posts/</link>
     <description>Recent content in Posts on Nicola Landolfi&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 17:04:40 +0200</lastBuildDate><atom:link href="https://nicolandolfi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 17:04:40 +0200</lastBuildDate>
+    <atom:link href="https://nicolandolfi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Docker HEALTHCHECK Command</title>
       <link>https://nicolandolfi.dev/posts/getting-started-docker-healthcheck/</link>
       <pubDate>Sat, 06 May 2023 17:04:40 +0200</pubDate>
-      
       <guid>https://nicolandolfi.dev/posts/getting-started-docker-healthcheck/</guid>
-      <description>In this post, we will discuss what Docker HEALTHCHECK is, when it should be used, provide a code example to demonstrate how the HEALTHCHECK command works and how to debug it.
-The code is available here.
-What is Docker HEALTHCHECK Docker HEALTHCHECK is a command used to test the status of a container in a systematic way. The command runs periodically, and if it fails, the container is marked as unhealthy.</description>
+      <description>&lt;p&gt;In this post, we will discuss what Docker &lt;code&gt;HEALTHCHECK&lt;/code&gt; is, when it should be used, provide a code example to demonstrate how the &lt;code&gt;HEALTHCHECK&lt;/code&gt; command works and how to debug it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Nico769/blog-code-examples/tree/master/getting-started-docker-healthcheck&#34;&gt;The code is available here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-docker-healthcheck&#34;&gt;What is Docker HEALTHCHECK&lt;/h2&gt;
+&lt;p&gt;Docker &lt;code&gt;HEALTHCHECK&lt;/code&gt; is a &lt;strong&gt;command used to test the status of a container in a systematic way&lt;/strong&gt;. The command runs periodically, and if it fails, the container is marked as &lt;code&gt;unhealthy&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
