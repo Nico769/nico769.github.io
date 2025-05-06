@@ -1,4 +1,4 @@
-baseURL: "https://nicolandolfi.dev/"
+baseURL: "https://nico769.github.io"
 languageCode: "en-us"
 title: "Nicola Landolfi's Blog"
 theme: "PaperMod"
@@ -31,19 +31,19 @@ params:
     UseHugoToc: true
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: false
+    comments: true
     hidemeta: false
     hideSummary: false
     showtoc: true
     tocopen: true
-    comments: true
     assets:
       disableHLJS: true
 
     homeInfoParams:
       Title: Hello! &#128075;
       Content: I'm Nicola Landolfi, a Software Engineer who loves to turn ideas into maintainable and scalable software by crafting readable and testable code. I mostly work with Java and Spring. 
-    socialIcons:
+    
+    social:
     - name: github
       url: "https://github.com/Nico769"
     - name: linkedin
